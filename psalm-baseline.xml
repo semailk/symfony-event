@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files psalm-version="5.18.0@b113f3ed0259fd6e212d87c3df80eec95a6abf19">
+  <file src="src/Controller/TestController.php">
+    <UnusedClass>
+      <code>TestController</code>
+    </UnusedClass>
+  </file>
+  <file src="src/EventDispatcher/LoggingEventDispatcher.php">
+    <UnusedClass>
+      <code>LoggingEventDispatcher</code>
+    </UnusedClass>
+  </file>
+</files>

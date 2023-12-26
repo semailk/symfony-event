@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\Functional\\Controller\\TestControllerTest::testEventWithoutMessage":7},"times":{"App\\Tests\\Functional\\Controller\\TestControllerTest::testEvent":0.003,"App\\Tests\\Functional\\Controller\\TestControllerTest::testEventWithoutMessage":0.086}}
